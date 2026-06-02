@@ -1,5 +1,6 @@
 ## 💫 About Me:
-🔭 I’m currently working on Human Resource Information System (HRIS)
+🔭 I’m currently working on Human Resource Information System (HRIS).
+
 My Portfolio: https://acd-portfolio.vercel.app/
 
 ## 🌐 Socials:
